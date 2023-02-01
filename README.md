@@ -15,7 +15,7 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 4. Tie in betting lines to see how errors influence covers for bets?
 
 
-### Example Insights:
+### Example Insights (All insights relative to the last 2 minutes of an NBA game, as per L2M report):
 
 #### Which NBA team has had more unfavorable errors vs favorable errors? Which NBA team has had more favorable errors?
 > Data accurate prior to games played on January 31, 2023.
@@ -41,3 +41,10 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 > Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
 
 ![ref-team-harmful](data/insights/sample4.png)
+
+
+#### At an individual official level, what is the delta between helpful and harmful erroneous foul calls?
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![ref-team-delta](data/insights/sample5.png)
