@@ -24,6 +24,20 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 
 #### Average officiating errors in the last 2 minutes of a game (as accured by the 3 person crew the official belongs to):
 > Data accurate prior to games played on January 31, 2023.
-> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jaclyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
 
 ![errors-per-game](data/insights/sample2.png)
+
+
+#### Which officials have been members of crews that most frequently "assisted" particular NBA teams with erroneous foul calls?
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![ref-team-assists](data/insights/sample3.png)
+
+
+#### Which officials have been members of crews that most frequently "harmed" particular NBA teams with erroneous foul calls?
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![ref-team-harmful](data/insights/sample4.png)
