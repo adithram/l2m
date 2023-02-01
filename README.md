@@ -19,4 +19,11 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 
 #### Which NBA team has had more unfavorable errors vs favorable errors? Which NBA team has had more favorable errors?
 > Data accurate prior to games played on January 31, 2023.
-![beneficial-vs-non-beneifical-errors](data/insights/sample.png)
+
+![beneficial-vs-non-beneifical-errors](data/insights/sample1.png)
+
+#### Average officiating errors in the last 2 minutes of a game (as accured by the 3 person crew the official belongs to):
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jaclyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![errors-per-game](data/insights/sample2.png)
