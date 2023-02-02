@@ -48,3 +48,11 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 > Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
 
 ![ref-team-delta](data/insights/sample5.png)
+
+
+#### Density of officiating errors for 2022-2023 season for 20 most erroneous officials
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![ref-error-density](data/insights/sample6.png)
+
