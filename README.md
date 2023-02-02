@@ -56,3 +56,9 @@ A few notebooks scraping NBA data related to refereeing and L2M reports. It also
 
 ![ref-error-density](data/insights/sample6.png)
 
+#### Officiating Errors vs Final Score of Game
+> Data accurate prior to games played on January 31, 2023.
+> Slightly misleading, as an error is assigned to an official if someone in their crew made the mistake. For example, it is theoretically possible Jacyn Goble has never comitted an officating mistake in the last 2 minutes of a game, but is unfortunately a part of consistently erroneous crews.
+
+![ref-error-vs-score](data/insights/sample7.png)
+
